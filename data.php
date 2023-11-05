@@ -34,9 +34,8 @@ function tgl($data_tgl)
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Les Privat Gitar Akustik Semarang</title>
-    <meta name="description"
-        content="Kembangkan bakat bermain gitar kamu dengan les privat yang dirancang khusus untuk pemula, Siapa pun bisa bermain gitar.">
+    <title>Les Privat Membaca dan Menulis Anak Semarang</title>
+    <meta name="description" content="Memadukan Teknologi & Literasi untuk Masa Depan Cerah Anak">
     <link rel="icon" href="assets/image/icon.jpg" type="image/x-icon">
     <link href="assets/css/bootstrap.min.css" rel="stylesheet">
     <link href="assets/style.css" rel="stylesheet">
@@ -50,7 +49,7 @@ function tgl($data_tgl)
 
             <div class="card" style="width: 290px;">
                 <div class="card-body">
-                    <p class="card-text">Pendaftar Les Gitar Ada <span class="fw-bolder">
+                    <p class="card-text">Pendaftar Les Ada <span class="fw-bolder">
                             <?php echo $count_select; ?>
                         </span> Orang</p>
                 </div>
